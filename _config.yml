@@ -5,7 +5,6 @@ email: "rk@FIREwithPurpose.com"
 title: "FIRE with Purpose"
 theme: "minima"
 
-rss: rss
 
 plugins:
   - jekyll-feed
