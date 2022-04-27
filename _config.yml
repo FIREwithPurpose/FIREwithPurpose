@@ -9,8 +9,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-markdown: kramdown
-
 header_pages:
   - _pages/homepage.md
   - _pages/about.md
