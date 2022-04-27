@@ -15,5 +15,7 @@ IRA (traditional, Roth, SEP)
 Brokerage account
 <br>
 529 account
+<br>
+ESPP
 
 
