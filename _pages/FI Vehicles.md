@@ -1,7 +1,7 @@
 ---
 permalink: /FI Vehicles
 layout: page
-title: Vehicles that I am using on the path to FI
+title: FI Vehicles
 ---
 
 
