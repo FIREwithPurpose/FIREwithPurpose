@@ -1,8 +1,8 @@
 ---
 permalink: /about
 layout: page
-title: About me
-list_title: About
+title: About
+ 
 ---
 
 
