@@ -5,6 +5,9 @@ I know what you are thinking - does the world need another Financial Independenc
 I have been following FI community for a while now and largely I agree with principles and outcome. So, why am I writing this when I can just retire and enjoy life the way god intended? because, it's important to not lose sight of purpose when you become financially independent.
 
 
+Few years ago, when I had no kids, I would totally have retired, gone to an unknown island, and nobody would have ever heard from me again; end of my FIRE story!
+
+Since that's not the case, I wa
 
 
 
@@ -25,8 +28,7 @@ I have been following FI community for a while now and largely I agree with prin
 
 
 
-
-If you have any question, comment, [or just want to talk] reach out to me at RK@FireWithPurpose.com  
+If you have any question, comment, [or just want to talk] reach out to me at rk@FireWithPurpose.com 
 
 
 
