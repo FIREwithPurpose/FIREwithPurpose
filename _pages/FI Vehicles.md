@@ -2,6 +2,7 @@
 permalink: /FI Vehicles
 layout: page
 title: FI Vehicles
+list title: Financial Independence vehicles I am using
 ---
 
 
