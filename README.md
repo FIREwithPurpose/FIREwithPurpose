@@ -13,7 +13,12 @@ Since you're hearing from me, I have (obviously) not vanished and I want to talk
 
 I don't have all the answers yet; I don't even have all my thoughts together yet, so as they evolve, I'll post more but for now I want to leave you with the thought: what would you do when you achieve FIRE - **live your life as if it didn't exist or leave your mark by making the world a better place?!**
 
+Here are some things that I want to do:
 
+- Volunteer
+- Maybe help create a personal financial course for schools?
+- Mentor students so they can achieve more 
+- ...
 
 <br><br> 
 
