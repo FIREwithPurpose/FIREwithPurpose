@@ -17,3 +17,6 @@ header_pages:
 
 include:
     - _pages
+    
+    
+base-url: /FIREwithPurpose
