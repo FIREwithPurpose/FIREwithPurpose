@@ -1,31 +1,12 @@
-author: "R Kash"
-description: "Having a purpose after achieving Financial Independence (FI)"
-url: "https://FIREwithPurpose.com"
-email: "rk@FIREwithPurpose.com"
+author: R Kash
+description: Having a purpose after achieving Financial Independence (FI)
+url: https://FIREwithPurpose.com
+email: rk@FIREwithPurpose.com
 title: "FIRE with Purpose"
 
 theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
-minima:
-  date_format: "%Y-%m-%d"
-
-# Minima: custom header links
-header_pages:
-  - _pages/FI Vehicles.md
-  - _pages/about.md
-
-
-include:
-    - _pages
-
-exclude: 
-    - .gitignore
-    - docker-compose.yml
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
+markdown: kramdown
