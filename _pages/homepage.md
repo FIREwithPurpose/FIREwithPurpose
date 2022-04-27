@@ -25,4 +25,6 @@ Here are some things that I want to do:
 - ...
 
 <br>
-If you have any question, comment, [or just want to talk] reach out to me at rk@FIREwithPurpose.com
+If you have any question, comment, or just want to talk about FI Vehicles that I am using, reach out to me at rk@FIREwithPurpose.com
+
+ 
