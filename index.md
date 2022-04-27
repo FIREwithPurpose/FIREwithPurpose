@@ -23,4 +23,4 @@ Here are some things that I want to do:
 <br><br> 
 
 
-> If you have any question, comment, [or just want to talk] reach out to me at rk@FIREwithPurpose.com
+If you have any question, comment, [or just want to talk] reach out to me at rk@FIREwithPurpose.com
