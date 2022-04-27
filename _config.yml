@@ -4,7 +4,7 @@ url: "https://FIREwithPurpose.com"
 email: "rk@FIREwithPurpose.com"
 title: "FIRE with Purpose"
 
-theme: jekyll-theme-slate
+theme: minima
 
 
 plugins:
