@@ -10,8 +10,10 @@ title: FI Vehicles
 <br>
 HSA
 <br>
+IRA (traditional, Roth, SEP)
+<br>
 Brokerage account
 <br>
 529 account
-<br>
-IRA (traditional, Roth, SEP)
+
+
