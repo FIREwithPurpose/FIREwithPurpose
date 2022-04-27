@@ -10,3 +10,11 @@ plugins:
   - jekyll-feed
 
 markdown: kramdown
+
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/FI Vehicles.md
+
+include:
+    - _pages
