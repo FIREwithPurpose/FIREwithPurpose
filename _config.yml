@@ -12,9 +12,10 @@ plugins:
 markdown: kramdown
 
 header_pages:
-  - _pages/frontpage.md
+  - _pages/homepage.md
   - _pages/about.md
   - _pages/FI Vehicles.md
+  - _pages/blog.md
 
 include:
     - _pages
