@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Home
+title: 
 ---
 
 ## Yet another FIRE blog?
