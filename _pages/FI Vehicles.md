@@ -6,7 +6,7 @@ title: FI Vehicles
 
 ### Financial Independence vehicles I am using
 
-401k
+401k (traditional, after-tax)
 <br>
 HSA
 <br>
