@@ -15,7 +15,7 @@ header_pages:
   - _pages/homepage.md
   - _pages/about.md
   - _pages/FI Vehicles.md
-  - _pages/blog.md
+#  - _pages/blog.md
 
 include:
     - _pages
