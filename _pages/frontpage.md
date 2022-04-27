@@ -26,7 +26,5 @@ Here are some things that I want to do:
 - Mentor students so they can achieve more 
 - ...
 
-<br><br> 
-
-
+<br>
 If you have any question, comment, [or just want to talk] reach out to me at rk@FIREwithPurpose.com
