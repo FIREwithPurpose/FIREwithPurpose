@@ -1,5 +1,5 @@
 ---
-permalink: /FI Vehicles
+permalink: /FI-Vehicles
 layout: page
 title: FI Vehicles
 ---
