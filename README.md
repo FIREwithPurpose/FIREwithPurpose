@@ -7,7 +7,7 @@ I have been following FI community for a while now and largely I agree with prin
 
 Few years ago, when I had no kids, I would totally have retired, gone to an unknown island, and nobody would have ever heard from me again; end of my FIRE story!
 
-Since that's not the case, I wa
+Since that's not the case, I want to talk about something and people in FIRE community rarely talk about - making the world a better place for next generation! 
 
 
 
