@@ -4,7 +4,7 @@ layout: page
 title: FI Vehicles
 ---
 
-# Financial Independence vehicles I am using
+### Financial Independence vehicles I am using
 
 401k
 <br>
