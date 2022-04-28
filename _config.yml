@@ -6,8 +6,7 @@ title: FIRE with Purpose
 
 theme: minima
 
-plugins:
-  - jekyll-feed
+
 
 header_pages:
   - _pages/homepage.md
@@ -21,3 +20,8 @@ include:
     
     
 base-url: /FIREwithPurpose
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
